@@ -1,0 +1,15 @@
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CopyComplete
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+E:\Koulu\Periodi v3p1\Taustajarjestelmat\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache

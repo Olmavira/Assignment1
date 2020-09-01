@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQlSlR1+tn9JVCVAQZ0+BALq0b94pjykbc0F5MfTw+/uJdI0xyqVCp1RkLU05YsVR7omMwgO4Bcfy//NU51gAw==",
+  "success": true,
+  "projectFilePath": "E:\\Koulu\\Periodi v3p1\\Taustajarjestelmat\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ollim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
